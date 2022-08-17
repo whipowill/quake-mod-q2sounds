@@ -8,6 +8,13 @@ So far as I can tell, this replaces all the sounds in Quake w/ the sounds from Q
 
 The original files as posted by the author were lost until another user posted a link to a Mega account that had his copy of them.  I made this repo to keep this mod safe and secure should anything befall that user's Mega account.
 
+## Install
+
+- Find your Quake install directory
+- Download this [zipfile](https://github.com/whipowill/quake-mod-q2sounds/archive/master.zip)
+- Extract the files to ``/quake/id1/sounds/``
+- Play the game
+
 ## Credits
 
 - Original mod created by [Sir Barnaby](https://quakeone.com/forum/quake-mod-releases/finished-works/276140-enhanced-sounds-for-quake)
