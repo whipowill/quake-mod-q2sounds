@@ -1,4 +1,4 @@
-# Q2 Sounds for Quake
+# Quake2 Sounds for Quake
 
 This is a folder of replacement sounds for Quake.
 
@@ -12,7 +12,7 @@ The original files as posted by the author were lost until another user posted a
 
 - Find your Quake install directory
 - Download this [zipfile](https://github.com/whipowill/quake-mod-q2sounds/archive/master.zip)
-- Extract the files to ``/quake/id1/sounds/``
+- Copy the ``/sound/`` folder to ``/quake/id1/sound/``
 - Play the game
 
 ## Credits
